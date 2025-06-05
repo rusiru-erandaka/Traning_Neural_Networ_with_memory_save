@@ -54,11 +54,8 @@ By comparing these workflows, this project provides insight into practical deep 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/CNN-Training-Memory-Efficient.git
-cd CNN-Training-Memory-Efficient
-pip install -r requirements.txt
-
-
+git clone https://github.com/rusiru-erandaka/Traning_Neural_Networ_with_memory_save.git
+cd Traning_Neural_Networ_with_memory_save
  ---
 ```
 
