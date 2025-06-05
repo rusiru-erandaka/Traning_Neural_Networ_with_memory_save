@@ -17,3 +17,14 @@ By comparing these workflows, this project provides insight into practical deep 
  ┣ 📓 CNN_training_memory_save.ipynb
  ┣ 📓 Data_preprocessing.ipynb
  ┗ 📓 Data_preprocessing_memory_save.ipynb
+
+ ---
+
+## 🚀 Key Features
+
+✅ CNN implementation using TensorFlow/Keras
+✅ Efficient memory-saving techniques (image streaming)
+✅ Dataset preprocessing with and without memory constraints
+✅ Training and evaluation pipeline
+✅ Clear performance comparison (speed, RAM usage, accuracy)
+
