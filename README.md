@@ -16,5 +16,4 @@ By comparing these workflows, this project provides insight into practical deep 
  ┣ 📓 CNN_training.ipynb
  ┣ 📓 CNN_training_memory_save.ipynb
  ┣ 📓 Data_preprocessing.ipynb
- ┣ 📓 Data_preprocessing_memory_save.ipynb
- ┗ 📂 .git/
+ ┗ 📓 Data_preprocessing_memory_save.ipynb
