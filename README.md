@@ -30,3 +30,14 @@ By comparing these workflows, this project provides insight into practical deep 
 - ✅ Training and evaluation pipeline
 - ✅ Clear performance comparison (speed, RAM usage, accuracy)
 
+<br>
+
+## 🧪 Notebooks Overview
+
+### 📓 Data_preprocessing.ipynb
+- Loads image data into memory.
+- Applies transformations like resizing, normalization, and label encoding.
+- Prepares NumPy arrays for model input.
+
+
+
