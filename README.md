@@ -18,7 +18,6 @@ By comparing these workflows, this project provides insight into practical deep 
  ┣ 📓 Data_preprocessing.ipynb
  ┗ 📓 Data_preprocessing_memory_save.ipynb
 
- ---
 ```
 <br>
 
@@ -56,7 +55,6 @@ By comparing these workflows, this project provides insight into practical deep 
 ```bash
 git clone https://github.com/rusiru-erandaka/Traning_Neural_Networ_with_memory_save.git
 cd Traning_Neural_Networ_with_memory_save
- ---
 ```
 
 ## 📊 Example Usage
@@ -65,13 +63,11 @@ Run standard training:
 
 ```bash
 jupyter notebook CNN_training.ipynb
- ---
 ```
 Run memory-efficient training:
 
 ```bash
 jupyter notebook CNN_training_memory_save.ipynb
- ---
 ```
 
 ## 🧠 Insights & Comparisons
