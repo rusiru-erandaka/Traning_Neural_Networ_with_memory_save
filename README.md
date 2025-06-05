@@ -49,6 +49,19 @@ By comparing these workflows, this project provides insight into practical deep 
 - Uses Keras Sequential API.
 - Includes model evaluation and accuracy tracking.
 
+<br>
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/CNN-Training-Memory-Efficient.git
+cd CNN-Training-Memory-Efficient
+pip install -r requirements.txt
+
+
+ ---
+```
+
 ### 📓 CNN_training_memory_save.ipynb
 - Loads images dynamically during training from URLs.
 - Reduces RAM consumption significantly.
