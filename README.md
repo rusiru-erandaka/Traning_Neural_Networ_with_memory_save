@@ -22,9 +22,9 @@ By comparing these workflows, this project provides insight into practical deep 
 ```
 ## 🚀 Key Features
 
-✅ CNN implementation using TensorFlow/Keras
-✅ Efficient memory-saving techniques (image streaming)
-✅ Dataset preprocessing with and without memory constraints
-✅ Training and evaluation pipeline
-✅ Clear performance comparison (speed, RAM usage, accuracy)
+- ✅ CNN implementation using TensorFlow/Keras
+- ✅ Efficient memory-saving techniques (image streaming)
+- ✅ Dataset preprocessing with and without memory constraints
+- ✅ Training and evaluation pipeline
+- ✅ Clear performance comparison (speed, RAM usage, accuracy)
 
