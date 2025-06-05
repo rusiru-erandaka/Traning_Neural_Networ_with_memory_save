@@ -59,9 +59,34 @@ cd Traning_Neural_Networ_with_memory_save
  ---
 ```
 
-### 📓 CNN_training_memory_save.ipynb
-- Loads images dynamically during training from URLs.
-- Reduces RAM consumption significantly.
-- Maintains similar model architecture and training procedure.
+## 📊 Example Usage
+
+Run standard training:
+
+```bash
+jupyter notebook CNN_training.ipynb
+ ---
+```
+Run memory-efficient training:
+
+```bash
+jupyter notebook CNN_training_memory_save.ipynb
+ ---
+```
+
+## 🧠 Insights & Comparisons
+
+| **Aspect**      | **Standard Method**            | **Memory-Saving Method**          |
+|-----------------|--------------------------------|-----------------------------------|
+| **RAM Usage**   | High                           | Low                               |
+| **Speed**       | Faster (with enough RAM)       | Slower (due to image streaming)   |
+| **Suitability** | High-end machines              | Low-resource environments         |
+| **Accuracy**    | Comparable                     | Comparable                        |
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repo and submit a pull request.
 
 
