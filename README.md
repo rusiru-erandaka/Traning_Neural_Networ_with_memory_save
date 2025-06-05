@@ -39,5 +39,19 @@ By comparing these workflows, this project provides insight into practical deep 
 - Applies transformations like resizing, normalization, and label encoding.
 - Prepares NumPy arrays for model input.
 
+### 📓 Data_preprocessing_memory_save.ipynb
+- Skips loading all images into RAM.
+- Uses image URLs with on-the-fly processing via PIL and TensorFlow's tf.data.
+- Ideal for handling large datasets or running on low-memory machines.
+
+### 📓 CNN_training.ipynb
+- Trains a CNN on preprocessed in-memory data.
+- Uses Keras Sequential API.
+- Includes model evaluation and accuracy tracking.
+
+### 📓 CNN_training_memory_save.ipynb
+- Loads images dynamically during training from URLs.
+- Reduces RAM consumption significantly.
+- Maintains similar model architecture and training procedure.
 
 
